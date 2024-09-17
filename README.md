@@ -13,6 +13,7 @@ A machine learning model for classifying kidney diseases using medical images. T
 7. Update the pipeline
 8. Update the main.py
 9. Update the dvc.yaml
+10. app.py
 
 # How  to run?
 ### STEPS:
